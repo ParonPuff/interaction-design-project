@@ -1,0 +1,193 @@
+{
+  "Cars": [
+    {
+      "id": 1,
+      "REG": "ABC123",
+      "RANGE": "123",
+      "COLOR": "Blue",
+      "TYPE": "Audi"
+    },
+    {
+      "id": 2,
+      "REG": "ABC124",
+      "RANGE": "123",
+      "COLOR": "Blue",
+      "TYPE": "Audi"
+    },
+    {
+      "id": 3,
+      "REG": "ABC125",
+      "RANGE": "123",
+      "COLOR": "Blue",
+      "TYPE": "Audi"
+    },
+    {
+      "id": 4,
+      "REG": "ABC126",
+      "RANGE": "123",
+      "COLOR": "Blue",
+      "TYPE": "Audi"
+    },
+    {
+      "id": 5,
+      "REG": "ABC127",
+      "RANGE": "123",
+      "COLOR": "Blue",
+      "TYPE": "Audi"
+    },
+    {
+      "REG": "abc553",
+      "RANGE": "123",
+      "COLOR": "green",
+      "TYPE": "cool",
+      "id": 6
+    },
+    {
+      "REG": "abc543",
+      "RANGE": "123",
+      "COLOR": "yellow",
+      "TYPE": "cool",
+      "id": 7
+    },
+    {
+      "REG": "abc512",
+      "RANGE": "123",
+      "COLOR": "yellow",
+      "TYPE": "cool",
+      "id": 8
+    },
+    {
+      "REG": "hej555",
+      "RANGE": "123",
+      "COLOR": "yellow",
+      "TYPE": "cool",
+      "id": 9
+    },
+    {
+      "REG": "abc555",
+      "RANGE": "123",
+      "COLOR": "yellow",
+      "TYPE": "cool",
+      "id": 10
+    },
+    {
+      "REG": "test12",
+      "RANGE": "123",
+      "COLOR": "green",
+      "TYPE": "cool",
+      "id": 11
+    },
+    {
+      "REG": "abc323",
+      "RANGE": "123",
+      "COLOR": "green",
+      "TYPE": "cool",
+      "id": 12
+    },
+    {
+      "REG": "Abc12",
+      "RANGE": "123",
+      "COLOR": "sdf",
+      "TYPE": "dfs",
+      "id": 13
+    },
+    {
+      "REG": "sdfsd",
+      "RANGE": "dsf",
+      "COLOR": "dsfsdf",
+      "TYPE": "dsfd",
+      "id": 14
+    },
+    {
+      "REG": "aaaa",
+      "RANGE": "bbbb",
+      "COLOR": "11111",
+      "TYPE": "kkkkk",
+      "id": 15
+    },
+    {
+      "REG": "jhkdf",
+      "RANGE": "gdfg",
+      "COLOR": "dsf",
+      "TYPE": "fdgdfg",
+      "id": 16
+    },
+    {
+      "REG": "abc123",
+      "RANGE": "123",
+      "COLOR": "blue",
+      "TYPE": "cool",
+      "id": 17
+    },
+    {
+      "REG": "Abc123",
+      "RANGE": "123",
+      "COLOR": "blue",
+      "TYPE": "ferrari",
+      "id": 18
+    },
+    {
+      "REG": "aaa123",
+      "RANGE": "123",
+      "COLOR": "dsf",
+      "TYPE": "fdg",
+      "id": 19
+    },
+    {
+      "REG": "asdasdsf",
+      "RANGE": "sada",
+      "COLOR": "dfsfsdf",
+      "TYPE": "asdasd",
+      "id": 20
+    },
+    {
+      "REG": "abc123",
+      "RANGE": "123",
+      "COLOR": "blue",
+      "TYPE": "cool",
+      "id": 21
+    },
+    {
+      "REG": "dsf",
+      "RANGE": "dsf",
+      "COLOR": "dsf",
+      "TYPE": "dsf",
+      "id": 22
+    },
+    {
+      "REG": "abc123",
+      "RANGE": "123",
+      "COLOR": "blue",
+      "TYPE": "cool",
+      "id": 23
+    },
+    {
+      "REG": "abc123",
+      "RANGE": "123",
+      "COLOR": "cool",
+      "TYPE": "cool",
+      "id": 24
+    },
+    {
+      "REG": "xyz552",
+      "RANGE": "123",
+      "COLOR": "blue",
+      "TYPE": "cool",
+      "id": 25
+    },
+    {
+      "REG": "joel555",
+      "RANGE": "24uher",
+      "COLOR": "dfs",
+      "TYPE": "sdgsdrf",
+      "id": 26
+    },
+    {
+      "REG": "Reg123",
+      "RANGE": "dsf",
+      "COLOR": "color",
+      "TYPE": "jksdf",
+      "id": 27
+    }
+  ]
+}
